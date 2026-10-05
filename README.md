@@ -1,9 +1,9 @@
 # libro_diario_de_un_hipocondriaco
 La idea era convertir esto a Fisiología De No Médicos Para No Médicos. Es un borrador, el BORRADOR 1. Muchos descubrimientos míos y 360 referencias o más a artículos papers y charlas en inglés.
 
-Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025. Todos los derechos reservados.
+Copyright (c) Juan Manuel Cabo 2020, 2021, 2022, 2023, 2024, 2025, 2026. Todos los derechos reservados.
 
-También está en mi blog:   https://zenstep.com.ar/libro-diario-de-un-hipocondriaco
+También está en mi blog:   https://zenstep.com.ar/libro
 
 UPDATE: Borrador número 2 en progreso, sin tantas cosas personales:
 
@@ -39,7 +39,7 @@ Esta es la parte que tipié en mi celular, mientras además guardaba mis gastos,
 
 Esta parte la escribí directo en mi celular, a mi mismo en Whatsapp ("TeléfonoYO"):
 
-             ["WhatsApp Chat with +54 9 11 3328-9544.txt"](https://github.com/jmcabo/libro_diario_de_un_hipocondriaco/blob/main/WhatsApp%20Chat%20with%20%2B54%209%2011%203328-9544.txt)
+             ["WhatsApp Chat with +54 9 11 3328-9544.txt"](https://github.com/jmcabo/libro/blob/main/WhatsApp%20Chat%20with%20%2B54%209%2011%203328-9544.txt)
 
 
 En ciencias biologicas, me fue bastante bien en las materias que me apasionaron, en particular tengo un 9 con Alberto Kornbliht en Biologia Molecular.
