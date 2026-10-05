@@ -39,7 +39,7 @@ Esta es la parte que tipié en mi celular, mientras además guardaba mis gastos,
 
 Esta parte la escribí directo en mi celular, a mi mismo en Whatsapp ("TeléfonoYO"):
 
-             ["WhatsApp Chat with +54 9 11 3328-9544.txt"](https://github.com/jmcabo/libro/blob/main/WhatsApp%20Chat%20with%20%2B54%209%2011%203328-9544.txt)
+             ["WhatsApp Chat with +54 9 11 3328-9544.txt"](https://github.com/jmcabo/libro_fisiologia/blob/main/WhatsApp%20Chat%20with%20%2B54%209%2011%203328-9544.txt)
 
 
 En ciencias biologicas, me fue bastante bien en las materias que me apasionaron, en particular tengo un 9 con Alberto Kornbliht en Biologia Molecular.
