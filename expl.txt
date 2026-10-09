@@ -1,0 +1,251 @@
+expl
+Creado: 2024-10-07.
+Updated: 2024-10-07.
+
+
+ResearchToDo: con mi teoría ya expliqué:
+         -isoprene danger zone:
+                1. volatilización a los 34°C a un atm, a 37.13°C a 80mmHg sobre atm, y a 38.66°C a 120mmHg sobre atmósfera.
+                2. polimerización en goma.
+                3. thermal runaway (ver gangrena y combustión humana espontánea). Fiebre.
+                4. cavitación al volatilizarse (al impactar con la pared de un vaso de la vasculatura, si había turbulencia y las condiciones locales de presión son bajas, el isopreno pasa violentamente a estado gaseoso, y produce cavitación rompiendo y ulcerando tejidos, dependiendo de la cantidad y condiciones particulares. Y de la temperatura.
+                 (5.) bacterias y hongos y parásitos, creo yo, los pueden usar como building blocks de pigmentos para captar energía de la luz no visible que penetre el cuerpo humano (EMF, rayos X, rayos UV, infrarrojos, etc.). El isopreno es la moneda de intercambio de double bonds, del reino vegetal y microorganismos.
+           -Normalmente no vemos estas condiciones porque la evolución trabajó desde el inicio en que algo se comió una planta en hacer que no nos mate y evitar esas condiciones. Todos nuestros procesos tienen como directiva oculta o implícita no pasarse al Isoprene Danger Zone. La temperatura corporal está definida para el isopreno. El hipotiroidismo es cuando estamos jodidos de toxicidad, y estanos obligados a limitar la temperatura, apagar el horno metabólico. El metabolismo implica algunas reacciones exotérmicas, por el simple hecho de que termodinámicamente no tenemos eficiencia 100% y eso hace que haya pérdidas energéticas que se van en calor. Si capeamos la temperarura, hemos capeado el metabolismo. Una CPU con transistores CMOS es tremendamente eficiente, es casi ideal, en papel gasta cero corriente en sensar el input de una compuerta y mostrar un resultado a la salida. Pero hay switching losses (al cambiar el output conducen el pull HI y el pulldown LO a la vez por un microinstante), y eso hace que se emita calor y se consuma corriente. Un CPU ideal no consume ni un solo watt. Pero como hay pérdidas, por eficiencia no 100%, se gastan watts y se emite calor. Corolario?: limitar la temperatura generada, es limitar el procesamiento, es ralentizar la CPU.
+Eso es el hipotiroidismo.
+(la T3 y la T4 son toxinas, o subproductos de actividad metabólica, pero ese es otro tema. Su volcado está asociado a un metabolismo rápido. Asociado. Supongo que la tiroides desactiva la phenylalanina, hay que hacer zoom ahí y dilucidar el flow de qué va a dónde y en qué orden. Creo que Phe y Thyrosine va de tejidos a tiroides, y ahí se desactivan y luego van a excreción. Cada cosa con su tag. Phe es benzeno taggeado.).
+          -Colesterol  y otros esteroles son simplemente isoprenos desactivados, juntados y hechos moño para que no hagan daño.
+          -Tal vez el hígado y los músculos aprovechen las propiedades térmicas del isopreno para generar calor, monomerizando el colesterol. No estoy seguro, me falta un detalle.
+           Pero eso explica lo que hace Wim Hof con el cold exposure. Y midieron 34°C saliendo de su pecho, siendo generados por su core.
+          -Si respiramos más rápido al hacer ejercicio, es porque la actividad muscular liberó isoprenos? o toxinas que necesitan O2 para quenchearse? o es porque aumentó la temp?  El ControlPause baja al hacer ejercicio. Baja porque subió la temperatura? Es eso el mecanismo de detox del ejercicio? subir la temperatura por mayor metabolismo, e ir haciendo que se vayan evaporando los isoprenos en un tejido donde no hacen daño y si se daña se regenera? No lo querrías hacer eso en el cerebro! Mejor en músculo e hígado! Esos dos se regeneran!. El cerebro no puede porque forma es función ahí, topología.
+          -Los esteroles son todos la misma mierda, solo cambian lo accesorio a los anillos dependiendo de circunstancias fortuitas no tan significativas como se cree. En esencia son toxinas hechas moño. En forma de moño, no dañan. Se pueden taggear, almacenar y transportar.
+__
+         -hipertensión. Es Isoprene Danger Zone Avoidance Stress.
+         -temperatura corporal de 36.8°C y por qué en décadas recientes ha bajado. Y que estar encima de eso es signo de excelente salud, ya no hay isoprenos.
+         -Baja temperatura corporal como indicador de toxicidad.
+         -Bajo control pause (Buteyko) como indicador de toxicidad. El cuerpo no logra acumular CO2 porque el nivel de isoprenos se va haciendo alto en sangre y se debe interrumpir la pausa respiratoria (que llega un punto que se hace inexistente) y volver a la exhalación urgente. 
+         -Los isoprenos también salen como gas, ya sea por pulmón como por intestino (burps y farts, eructos y flatulencias).
+         -fermentación y burping de recipientes, es permitir que salgan los isoprenos liberados. No por mada la temperatura óptima de fermentación es 34°C a una atmósfera. No me sorprendería si se puede acelerar la fermentación con máquinas, pumps, que pongan los recipientes a presión negativa, por debajo de 1atm. Ahí es menos de 34°C.
+        -cocinar carne bien es evaporar isoprenos. Lo mismo otras comidas.
+        -alguna carne en mal estado parece gangrenosa. El color negro oscuro, hinchado.
+        -la gangrena es el resultado de no poder evitar el Isoprene Danger Zone. Es lo que ocurre. Bolas de gas isopreno manifestadas súbitamente, cavitación, vasos obstruidos com bolitas de goma de isoprenk polimerizado generando áreas sin irrigación necrotizadas, thermal runaway de isoprenos. Asociada a la combustión humana espontánea. Y en papers de conbustión huamana espontánea dicen que hay un olor característico como el de la gangrena.
+ Para que un animal o el humano tóxico termine en gangrena, supongo que deben fallar varias cosas, como el sistema inmune como cleanup crew, y falta extrema de proteínas, que se necesita  para hacer anticuerpos que neutralicen toxinas, y receptores.
+         -coágulos. Son goma hecha con isoprenos y tal vez vulcanizada con sulfuro. Se disuelve con ketonas en ketosis. Mucha gente evita estar en ketosis por décadas seguidas.
+         -la parte picuda del retinol y carotenoides es polimerizable, se ensambla. Los 3 palitos de metill wue sobresalen.
+        -Los double bonds resuenan con luz visible y no visible. Depende del peso de la molécula es la frecuencia de resonancia. Al partir una molécula (beta caroteno en dos retinoles) o agregarle o quitarle un grupo, cambia su masa y así cambia la frecuencia de resonancia.
+         -Los dos metilos en antenita captan singlet oxygen, pero hay un tema que no me acuerdo, no es tan simple, y lo pueden tomar como carbonilo, como grupo Keto.
+         -Se sabe que las ketonas (como la acetona!) disuelven goma vulcanizada (hecha con latex que son isoprenos, y con azufre / sulfur).
+        -El vinagre (ácido acético con mezcladito de otras cosas) puede jugar un rol. Dejar un bowl de vinagre en un cuarto, les quita el sustento a hongos hogareños de pared. Hay algo ahí. De hecho el vinagre deshace los gránulos de melanina (pigmento).
+         -bolitas en distintos lugares del cuerpo  o tapando glándulas. Idem coágulos. Idem ketosis. Ejemplo, tapando conductos de output de beta cells de páncreas, que también es una glándula.
+        -bolitas bajo la piel, o en nódulos linfáticos.
+        -membrane shedding, explica lo que pensaban que eran micoplasmas o virus al ver células estresadas bajo microscopio electrónico.
+        -membrane shedding explica lo que veía Raymond Rife en su microscopio vivo de colores y aumento, él decía que veía los virus brotar de las células, en realidad era membrane shedding llevándose toxinas deembranas podridas de toxinas liposolubles.
+        -membrane shedding: todo el cuerpo, todos los tejidos, tienen la capacidad de almacenar toxinas liposolubles. Dónde? donde hay lípidos en una célula? en las membranas bicapa lipídica, dentro de las membranas, entre sus dos capas. Y en lisosomas, liposomas, vacuolas, etc, cuyo contenido es grasa líquida.
+       -ghosts RBCs: os RBC no solo traen oxígeno, sino que se llevan membranas volcadas, dumped membranes. Los RBC no hacen OxPhos, no tienen núcleo, solo hacen glucólisis. Llevan las membranas a hígado y spleen/bazo y se procesan y luego se expulsan del cuerpo en la egestión.
+        -el rápido turnover de RBC indica toxicidad o detox en progreso. 
+       -Cuando uno está sano, los RBC duran más.
+       -RBCs llevan O2 para singlet oxygen que quenching. El O2 es para detox, además de para OxPhos.
+        -la materia fecal son membranas dumpeadas, provenientes de todo el cuerpo, transportadas por RBCs, y toxinas oxidadas que le dan ese color. El mismo color de la Anilina oxidada, etc. Si es un pigmento, tiene double bonds, tiene benzeno o se hace un firulete y queda benzeno, y si se oxida, se ve como se ve (pigmentos de phenoles, como las antocianinas). Idem carotenoides. Idem isoprenos.
+        -hay bacterias y hongos que usan diversas moléculas con double bonds para tener pigmentos para sacar energía de luz no visible. La luz no visible es tan importantr para la vida como la luz visible. Si la.evolución no hubiera encontrado como sacar energía de rayos X y rayos UV, y demás luces no visibles, no estaríamos aquí, no habría bacterias en lugares donde no da el sol. Ejemplo ver hongos vs melanina en papers. Esa es otra razón del cuerpo para mantener altamente controlada la cantidad de pigmentos dando vueltas. Y explica por qué la gente tóxica que rebalsa de toxinas con double bonds, como el.isopreno o el retinol, o el benzeno o phenoles, también rebalsan de microorganismos, de cualquiera según condiciones caprichosas, y saber exacto cuáles no tiene tanta importancia clínica, como síla tiene sacar a ese sujeto de la toxicidad.
+        -en nivel micro, fue importante el double bond para obtener energía. En nivel organismo humano, nosotros no lo queremos tanto, quizás, porque obtenemos energía química de alimentos en vez de de luz primariamente. Usamos la luz para detoxificar, sí. Los UV rompen estos pigmentos, la vitamina D es colesterol roto, es un indicador. Es posible que usemos la luz para más cosas, Thomas Cowan le da un rol protagónico. Yo digo que para los organismos era esencial, y que nosotros nos deja en un problema tener tantas sustancias dando vuelta con double bonds.
+        -vitamina D como colesterol roto: es un indicador de velocidad de membrane shedding tal vez (los colesteroles almacenados en membranas salen durante detox, durante membrane shedding). E indicador de que se toma sol (los UV rompen ese colesterol)? O sea, es el resultado de un proceso bueno que es sacarse de encima los isoprenos convertidos en moño de esteroles. Tomar suplemento de VitaminaD es como comer materia fecal. No lo quiero decir de manera más suave que esa. Es extremadamente mala idea consumir suplementos de VitD, y si uno se siente bien es porque inhibió el detox.
+        -por qué hace mal parar de golpe en la bicicleta o en running.
+        -por qué nos da frío cuando tenemos ganas de hacer pis.
+        -el hipotiroidismo.
+        -toxin resistance en vez de insulin resistance.
+        -que la phenylalanina no es esencial, es un benzeno taggeado.
+          -Los tags de las toxinas les cierran unas puertas y les abren otras. De esa manera, son como un remitente y destinatario, y fuerzan a que la toxina vaya a tal otro tejido. Como cuando mandaba un msg en el bus compartido del microcontrolador General a los micro de cada pata del robot. El mensaje impactaba en todos los micro, pero solo "entraba" en el que tenía el tag.
+          La sangre es como un bus compartido. Todo rebota contra todo. Solo entra lo que encaja donde corresponda que encaje. Y lo que no esté marcado de cierta forma especial, entra en todos lados. En todos.
+        -Lo mismo la Tirosina, es la phenylalanina con otro tag más. Lo mismo la T4 y T3.
+        -que nadie debería tomar ni T4 ni T3, son toxinas y si nos despiertan es por que ahora tenemos que generar más CO2. 
+        -que la adrenalina y el cortisol son toxinas, como todos los esteroles. En el caso del cortisol y los esteroles, ya no son peligrosos, son isoprenos hechos moño para que no dañen.
+        -el cortisol inhibe el sistema inmune porque el sistema inmune lo tiene de ouput, es un cleanup crew, y todo sistema que no da loop infinito, por negative feedback, se inhibe con el resultado de su funcionamiento, con su output.
+       -la adrenalina, como todas las catecolaminas, es un benzeno taggeado. Haciendo su recorrido de órgano de generación a órgano de detox a salida, en cada paso recibe otros tags. La dopamina es muy similar. Nadie marcó con carbono radiactivo una dopamina para ver si luego de ser expulsada por neurona, y salida de la corteza, se taggea como aderenalina en algún punto y se almacena en las adrenales para liberar lentamente en ayuno y cuando las condicones lo permitan.
+         -la gran cantidad de adrenalina en sangre sube el pulso porque es una toxina. Si lo es directo o si traba el output de los sistemas que convierten otras toxinas a la forma segura que es adrenalina, no lo sé.
+       -Creo que los phenoles y benzenos nos suben el pulso porque rompen otras moléculas grande de polímeros de isopreno en sus monómeros de isopreno, y así aumentan los isoprenos en sangre y nos dejan en Isoprene Danger Zone Avoidance Stress. Hay que checkear esto.
+        -alta tensión corporal o mental como signo de toxicidad.
+         Por efecto Bohr, sin CO2 no absorbemos O2. Necesitamos que haya CO2 si no, nos ahogamos. El O2 no sale de los hemes. Tal vez el CO (monóxido) producto del detox por citocromos P450, tampoco sale de los hemes.
+         Se necesita generar CO2 sí o sí porque la pausa pre exhalación es inexistente, porque no se puede aguantar la respiración y acumular CO2 porque el ritmo de evacuación, dumpeo, volcado de isoprenos a sangre es alto, es mucha velocidad, y hay que evitar el isoprene danger zone. Van saliendo por pulmón y por intestino los isoprenos pera a cierta velocidad. La manera de generar CO2 es con gasto metabólico, pensando en loop o tensionando el cuerpo o distintos músculos. 
+        -El reticular activation system (RAS) regula la tensión compensatoria para salir del isoprene danger zone. Esa es su razón de ser. Y por eso está mal en ADHD. Y por eso el pibe o adulto no puede parar de moverse o de pensar (idem depresión con loops mentales, idem Parkinson con loops de movimientos).
+       -Mewing es una forna de ayudar a generar CO2 dentro de la cabeza. Relajando así la tarea del músculo ciliar de los ojos así relajando la vista, relajando los músculos del cuello y cervical. Porque la fuerza de la lengua, y tiene fuerza, los releva de esa tarea. Genera el CO2 necesario.
+        -la hiperactividad y ADHD es una forma de tensión compensatoria a toxicidad.
+        -la miopía es una forma de tensión compensatoria. Se genera CO2 con músculos de la vista. Y entonces tenemos que enfocar de la manera que no es. Hay dos maneras de enfocar. La gente tóxica tiende a enfocar de la manera que no es, sin Central Fixation (ver William Bates). La tensión en músculo ciliar dentro del ojo, y los extraoculares, están en relación con los músculos trapecio. (ver papers ciliar vs trapecio).
+         -La mala postura es signo de toxicidad. Los músculos de la postura se usan para tensión compensatoria.
+         -Al cerrar los ojos, baja el requerimiento de O2 del cerebro: El Procesamiento Visual consume mucha energía, tiene un ritmo metabólico ALTÍSIMO. Lo digo de vuelta: ALTÍSIMO. 
+         -Pero también al cerrar los ojos baja la generación de CO2 si se interrumpe la tensión del músculo ciliar de cada ojo, y extraoculares.
+         -Test de Romberg: al cerrar los ojos, cambia el requerimiento de O2 y la generación de CO2 por lo dicho arriba, y los músculos posturales, que se usaban también como tensión compensatoria, se desbalancean.
+         -TinnitusMix: shiftea la generación de CO2 al procesamiento auditivo, y probablemente también a tensión muscular en músculos del oído.
+         -Tanto cerrar los ojos como TinnitusMix tienen efectos relajatorios en la postura, en músculos del cuello y cervical.
+         -Al poder reducir la tensión compensatoria en músculos que justo estaban ocluyendo el intercambio del sistema glinfàtico del cerebro hacia el exterior de la cabeza, se mejora todo tipo de aspecto mental.
+       -Eso explica por qué ATT, DNRS y otras formas de relajación funcionan.
+       -"CERRAR LOS OJOS Y ESPERAR".
+          -RUIDO en oídos al cerrar ojos fuerte. Glinfático. Algún nervio se desinflama y deja pasar.
+       -Neurotransmisores como toxinas. El cerebro no los quiere. Se los forwardean de neurona en neurona porque son subproductos tóxicos y no deben volcarse al espacio común, y el sistema inmune no puede patrullar el cerebro y perforar tejidos como hace en el resto del cuerpo, porque cada neurona es irremplazable, un nodo guarda su significado en la posición topológica de ese nodo relativo a los otros.
+       -La corteza cerebral es arrugada para aumentar superficie de intercambio de toxinas hacia el exterior. Cuanto más corteza tenga una especie, más output de potencia instantánea puede handlear. Como si fueran watts P.M.P.O. O como cuando la fuente de mi PC de 1000watts dice que puede handlear 1200watts por breves momentos.
+       -Los músculos son órganos de detox. No solo absorben toxinas, las queman. Zoom en ácido láctico.
+       -El hígado y músculos queman isoprenos. Creo que para termogénesis. Hay que hacer zoom ahí.
+       -Las neuronas también largan ácido láctico.
+       -PTSD, trauma, como toxicidad que entró y se almacenó justo en las neuronas que estábamos usando cuando había alta toxicidad en sangre. Por ejemplo al no dormir para un examen o no dormir por conflicto familiar o soldado en una guerra que no duerme hace días esperando al enemigo en trinchera o huyendo en caminos sin poder parar a dormir por días. El glinfático no puede actuar y el cerebro está lleno de toxinas. Esas van a entrar en las nueronas más usadas o en las que hagan más membrane shedding.
+        -El gasto metabólico genera toxinas, subproductos, que hay que evacuar, dumpear.
+        -A mayor gasto metabólico, mayor MEMBRANE SHEDDING.
+        -A mayor ritmo de Detox, mayor membrane shedding.
+       -El membrane shedding se frena si no hay proteínas en dieta, en sangre, para regenerar las partes rotas volcadas. Una membrana tiene tanto lípidos como proteínas. Y en tanto volcar al exterior, se pierden proteínas sueltas del interior de la célula, del citoplasma, porque el membrane shedding no es 100% eficiente en volcar solo lo malo. Algo de lo bueno se va con lo malo. Se corta por lo sano. Mi profesor de termodinámica me enseñó que no existen los procesos con nu == 1.0, es decir, con eficiencis 100%.
+        -Entonces sin proteína, no hay membrane shedding.
+       -Cuando se consume mucha proteína de golpe, luego de mucho tiempo sin consumirla, puede haber un dumping muy violento. Porque ya tenemos los aminoácidos necesarios para elaborar anticuerpos que bindeen toxinas, y receptores de membrana y proteínas citosólicas para reemplazar las que se van a ir durante el membrane shedding. 
+        -Como la presencia de aminoácidos, building blocks, en sangre es una señal global, y la toxicidad era ubicua, y en la naturaleza el ser humano no estaba acostumbrado a no tener proteina por tanto tiempo ni a haber acumulado tanta toxicidad (eso lo hacemos solo en la vida moderna, por gente loca y "cosas ricas"), entonces es peligroso y el dumping puede ser muy súbito. Gas en la panza y síntomas digestivos de constipación sería lo de menos. Es un dumping muy grande. Porque la señal de AA es global, y la toxicidad es global, entonces es difícil regular esta velocidad del membrane shedding que de golpe ahora sí se puede hacer.
+Ver REFEEDING SYNDROME.
+Todos los tejidos ven aminoácidos disponibles, todos los tejidos dumpean.
+        -El toxic bile dumping del que habla Garrett Smith, es un fenómeno más global de lo que él piensa. Todos los tejidos almacenan esteroles en sus membranas.
+Los bile acids son esteroles..
+Los esteroles son isoprenos dwsactivados, hechos moño.
+Existe peligro que en combinación con otras sustancias se monomericen y re-activen. 
+Estudiar los detalles del dumping y del detox es crítico para el futuro. Hacer zoom ahí.
+        -El dolicol y el squalene también son isoprenoides. Se generan a partir de Acetil CoA al output del OxPhos (phosphorilative oxidation, fosforilación oxidativa). El exceso se almacena en  membranas.
+        -Consumir muchos carbos fuerza a quemarlos en OxPhos de más. Llega un punto en que los posibles endpoints buenos del Acetil CoA se saturan, como Ácido Palmítico, y se va para el lado de los isoprenos.
+         -No por nada los RBC no hacen OxPhos. Son justo los que desagotan el kilombo de isoprenos dejado por la OxPhos y los carbos y demás.
+        -Canas PELOS BLANCOS: la melanina versus el H2O2 generado por detox de colesterol y de benzenos/phenoles. Hay que hacer zoom ahí. El ácido acético (vinagre, pero también es producto de detox, los aldehídos del etanol, el acetaldehído, se convierte a vinagre en sangre) también ataca la melanina, al igual que el H2O2.
+        -Singlet Oxygen Quenching: los RBCs nos traen O2 para detoxificar estos subproductos, de isoprenos y phenoles. La antenita del anillo.
+        -MTOR: y AKT y Insulina: se entienden cuando se entiende el membrane shedding. 
+La insulina desencadena la fabricación de más receptores, pero eso se integra a la membrana con bolitas lipídicas. Entonces eso se reinterpreta. Y la insulina promueve la entrada de todo tipo de cosas a la célula, no solo glucosa. Insulin Resistance es Toxin Resistance es Hipotiroidismo, es el metabolismo en pausa porque aun hay toxinas flotando en sangre, que si la célula las deja entrar, se muere, entonces no le queda otra que pausar todo. Y claro, entonces baja la temperatura del cuerpo (se frena el metabolismo, reacciones exotermicas, termogénesis, cosas que requieren intercambio y dunping de subproductos e ingreso de nuevo fuel a la célula) y se suspende el membrane shedding.
+Sigo con MTOR y AKT: Uno rehace la.membrana cuando puede o cuando debe. Y eso es cuando una persona tóxica ingiere una carga de proteína y puede con esos aminoácidos ahora disponibles (por breve tiempo, porque si no los usás los perdés, salvo que los hayas acumulado en músculo, y por eso la gente tóxica como los hipotiroideos tienen muscle wasting  porque se saca ds ahi oara detoxificae otroa orgnanos y tejidos y seguir el membrane shedding). Entonces en ese tiempo que hay AA en sangre, hay que hacer el membrane shedding y se activa MTOR. 
+        -Además, si hay mucha membrana que volcar, va a convenir hacer muchas mitosis, si es que hay muchas toxinas qué deshacerse. Bah, en realidad es que se saturaron las membranas que hay, y hay tres maneras de aumentar la cantidad de membrana, la superficie (pero hay una cantidad de superficie crítica luego de lo cual revienta o no conviene) aumentando el tamaño de la célula, dos; con folds, con pliegues que aumenten la superficie dado un mismo volumen, aparato de golgi, reticulos etc.,  tres: dividir en dos células: se reparte la toxicidad en dos, y se duplica la capacidad de membranas. No todos los tejidos pueden hacer mitosis. Los epitelios sí, otros no. Cada tejido, cada tipo de célula, va a emplear distintas modalidades para lidiar con la realidad del exceso de toxinas liposolubles y de espacio limitado en membranas. Los adipocitos son los más afortunados, pueden hacer gotas de grasa, lipid droplets, y meter todo ahí. Otros tejidos no, como las neuronas, no puede una neurona dada hacer mitosis, porque su significado y su función y su rol es dictado por la.topología, por su ubicación relativa a los otros nodos y sus conexiones a los otros nodos. Entonces oara ese tejido tenemos las células gliales, y los astrocitos, y el intercambio de vesículas, vacuolas, liposomas, etc etc etc entre ellos. Lo cual se confundió como fenómenos relativos a neurotransmisión y neurotransmisores, y dio origen a la industria que ralentiza el detox por medio de bloqueo de ese intercambio, lo cu hace que el cerebro funcione distinto, en general que frene su metabolismo porque no da abasto a evacuar las toxinas y subproductos del metabolismo. Ponen palos en la rueda los bloqueantes de receptores de "neurotransmisores". O aceleran la rueda porque hay que generar CO2 de manera forzada, al dumpearse toxinas al medio común que acortan la ControlPause, o de lo contrario morir sin CO2, entonces se acelera todo.
+       -El ácido fólico es una toxina que fuerza a que haya más mitosis, más membrane turnover. No ea que la mitosis se frena sin a.fólico, es que se acelera con él. Es un sistema irritado, forzado a deshacerse de membranas. A aumentar el turnover.
+       -Eso lleva a envejecimiento prematuro, si el turnover es más rápido de lo necesario. Más rápido de lo que se puede reparar daño. Los telómeros, obviamente, se van acortando. Si se deja tiempo, recuperan su longitud, se repara. Pero una persona típica, con carga tóxica típica, malos hábitos típicos, ketosis evitada por años y años, no da oportunidad a que esta reparación ocurra a velocidades satisfactorias.
+        -Entonces MTOR alto es signo de que vas a envejecer más rápido. Pero es un signo, no es la causa, es parte de la solución. Bloquear MTOR es bloquear el membrane shedding. Te vas a saturar de toxinas, eso termina mal. Es bloquear las mismas razones por las que consumir proteína es necesario para el rebuild. Es bloquear el rebuild. Claro que cuando uno envejece aceleradamente está rebuildeando aceleradamente. Pero eso es porque uno consume toxinas que irritan todo a ciclar rápidamente, y entonces hay más rebuilding. La solución en dejar de ingerir toxinas. La solución no es, nunca es, bloquear el Rebuilding.
+__
+       -DESHIDRATACIÓN en gente Keto: es por mayor MEMBRANE SHEDDING. Al expulsar membramas se va deshidratando cada célula y al reponer, se retira muy rápido de circulación el agua de la sangre. Se la chupan re rápido.
+         Agua y Sal. Toda la que haga falta. Toda. Gramos y gramos de sal. Litros y litros de agua. No tiene nada que ver con el riñón y todo que ver con el Membrane Turnover. Las células se están quedando sin agüita (y sin sal).
+         -Por qué ocurre en Keto? Quizás porque todo el cuerpo recibió la señal de que ahora hay aminoácidos y lípidos suficientes para iniciar el shedding, y poder reponer proteínas receptores transmembrana y citosólicas y rehacer membranas con lípidos, que se pierden al expulsar vesículas y fragmentos.
+        (O quizás porque en keto (low carb) hay un tema con la glucosa y el OxPhos y elembrane shedding y generación de isoprenos y singlet oxygen quenching (la glucosa es un antioxidante a veces) que hay que dilucidar.)
+      -Quizás la glucosa alta inhibe el shedding, por saturar el OxPhos. No sé. Sí sé que no es sano estar décadas evitando la ketosis y en high carb. 
+       -Lo sabio puede ser, al salir de años de toxicidad, combinar Keto/LowCarb con frenadas del detox semanales, pulsando carbos los findes. Pulsos de carbos sanos como arroz, manzana, pastas artesanales, etc, galletas artesanales, etc. 
+De ninguna manera ninguna harina fortificada (ni fólico, ni niacina), ni galletita, ni pastas de paquete, ni JMAF, ni nada que exista en góndola de un supermercado.
+       -Ojo porque "Toxic On The Way In, Toxic On The Way Out" (frase de Garrett Smith).
+       -Esto no es un juego: detoxificar muy rápido es peligroso. Nunca detoxificar también es peligroso.
+__
+       -Resistencia Piel: aun no entiendo por qué ahora tengo Megaohms y antes tenía Kiloohms de resistencia de piel. Medido con todos mis testers.
+__
+       -Olor transpiración: Garrett Smith dice que es el olor de sulfuros expulsados por sudor. Que vinieron por la dieta (huevo, ajo, cebolla, etc altos en azufre / sulfur). Habría que ver si hay algo más ahí o si eso es todo.
+__
+      -Adicciones: son postergar la abstinencia.
+      -Horror al carb gap: explica por qué postergamos la ketosis.
+      -Horror al gap de CO2: explica mental stiffness, por qué nos cuesta cambiar de foco y reenfocar cognitivamente (solo cuando somos tóxicos, o sea, cuando hay baja ControlPause).
+      -El horror al gap de CO2 explica dificultad para cambiar la modalidad de Tensión Compensatoria. Sea mental o muscular:  postural por ejemplo, no queremos movernos de la silla, cambiar la postura, o caminar distinto. O empezar ejercicio.
+          -INTERVAL TRAINING/WORK: Beeptime 1m, pausar para bajar temperatura CPU mental metafórica. Por estar entre el isopreno y el CO2, entre la espada y la pared. Estilo InstantBoss.
+          -Por qué funciona Wim Hof Breathing. Pumping de Citocromos. Liberar CO1 (monóxido) de los hemes de los citocromos. Expulsar, evaporar isoprenos gaseosos hacia afuera.
+          (acabo de hacer Wim Hof Breathing y me dio goosebumps, y recuerdo que a veces da, y dicen que da, algo de frío. También dicen que se libera adrenalina. Qué más falta decir? La adrenalina es una toxina, se liberan isoprenos, salen por la piel, nos bajan la temperatura por evaporative cooling. Es un ejercicio milagroso. Es probable que la adrenalina y los isoprenos no salgan de la adrenal si no que salgan de todos lados, de todas las células. Quizás el O2 hacía falta para monomerizar y que así salga, o lo que sea. Tal vez hasta MONOMERIZAR RETINOL, y así puede salir por piel evaporado como isopreno. Si no no podría salir por ahí, si no es en forma de esa molécula de bajo punto de ebullición.)
+        ( también, como siempre, y lo dice Wim Hof, se me relajaron los músculos del cuello. Sin duda está aliviando Tensión Compensatoria. Si baja el requerimiento de CO2 en el breath hold, y entonces baja la tensión, es porque se generaba la tensión por eso. Es simple. Deep Breaths limpian toxinas. Breath Hold nos da oxígeno y CO2 para absorberlo. Se arregla el ControlPause, eso quiere decir que se fueron los isoprenos. Sers que es un peligro echar a los isoprenos en presencia de CO2?).
+          -Wim Hof Cold Exposure. 34°. Se quema una toxina que el cuerpo deja para después para cuando haga frío, pero nunca llega eso. Porque es exotérmica, y peligro de thermal runaway.
+         -ATT vs GAP DE CO2 vs MOVIMIENTOS BRUSCOS vs APLACAR DISRITMIAS TALAMOCORTICALES:
+          -En ATT, tengo movimientos bruscos que yo llamaba "de liberar tensión". Por ejemplo cuando estoy por escuchar el siguiente sonido, y no estaba, y de repente aparece (se hace esperar), tipo sonido de puerta rechinar o de dishes. Al aparecer el sonido que se hizo esperar, el sonido que ya me estaba imaginando, se mueve mi cuerpo bruscamente. 
+     Cómo se interpreta eso? Como que los loops mentales se fueron liberando, y ahora estábamos agarrados de solo una liana, y al soltar esa, vino un CO2 gap: apagamos la generación de CO2 de los loops, y nos quedaba la de la imaginación de ese sonido. El cuerpo decide rápidamente aumentar el CO2 con un movimiento repentino.
+      Me imagino que apretar las manos o los brazos o piernas puede tener un efecto suavizante de los GAPs. Ahora que se sueltan las Disritmias Talamocorticales, que son los loops mentales que estaban porque era necesario sostener una liana de generación de CO2. La tensión en las manos puede actuar de relleno. De hecho la audición y la.imaginación de los sonidos están rellenando ya y haciendo de relevo de la Tensión Compensatoria del aparato visual y de las ideas DELEQUEDELE ansiosas y cuestiones de loops así internos.
+          -Ansiedad como Tensión Compensatoria.
+          -Depresión como tensión compensatoria.
+          -Hyperactividad "    ".
+          -Consumo de TV y multimedia "   ".
+          -Postura tiesa, dura, inercia para levantarse y hacer cosas. (SERÍA ADAPTATIVA SI CONDUJERA AL AYUNO, pero uno se sirve cabos fáciles, snacks, durante el día de la cocina a 3 pasos, y el mecanismo de ABULIA nunca es adaptativo ahora, nunca lleva al ayuno y así al Detox.).
+__
+      -Piloerección "Piel de gallina" / "Goosebumps", luego de Adrenaline Rush (o de isoprene dumping). Yo creo que lo que es:
+o largar isoprenos por piel en forma gaseosa. O largar a sangre entonces músculos de la piel se ponen a generar CO2 ayudando con contracciones en todo el cuerpo.
+__
+Cual modalidad de generación de CO2 el cuerpo elige en todo momento para hacer tensión compensatoria va a depender de caprichos idiosincráticos de qué toxinas se están dumpeando, en qué tejidos, si son sistémicas o si están en cabeza/cerebro. Si son subcutáneas más que nada, o vasculares, linfáticas, etc.
+Depende de si son isoprenos puros, o esteroles en gran cantidad, en peligro de monomerización por presencia de benzenos/phenoles/"polifenoles buenos/antioxidantrs buenos" que son bien malos. Retinoides, etc.
+Depende de cantidad de anticuerpos presentes. De si esos anticuerpos ya están prefabricados, si ya hay suficientes de esos lifocitos B clonados para reiniciar la fabricación, y de si hay los insumos (aminoácidos) necesarios.
+__
+Entonces en la piloerección, ya sea por miedo o  placer, se liberó adrenalina (o quien sabe qué otro esterol o isopreno) y convino hacer que la piel genere CO2.
+__
+Igual yo me inclino porque sale por piel como gas, y así da el frío que da.
+Antes de empezar la termogénesis, uno se va a querer deshacer de los isoprenos que tiene a mano en sangre, que sería peligroso que se calienten (IDZAS). Entonces los largamos por piel. El evaporative cooling de volatilizar esos isoprenos por piel, nos enfría la piel todavía más. Justo cuando queríamos empezar termogénesis porque estábamos con frío. Luego, al rato, ya podemos empezar la termogénesis y empezar a tener calorcito por dentro.
+Por eso se llama "CALOSFRÍOS".
+Porque a veces empieza cuando tenemos frío, y encima nos enfría más la piel. 
+La molécula de isopreno requiere aborber un poco de energía para pasar a estado gaseoso. Esa energía la saca de su entorno, y se va, se la lleva. Eso es el evaporative cooling. Nos enfría. La molécula se lleva calorías, joules, y nos deja con menos °C.
+Me da pena que muchos médicos no saben cosas básicas de física para darse cuenta de estas cosas.
+Una vez más: la medicina es demasiado importante como para dejársela a los médicos.
+__
+         -INGRESO A ADICCIÓN a Retinol y Toxinas por gran carga de toxinas inicial, sumado a iniciarse en carbos diarios cotidianos (como un hain smoking pero de carbos), nunca dejando que empiece la ketosis, nunca trascendiendo el HypoGlucemia Gap. 
+          -Ejemplo: chupetín con vacuna. 
+           La vacuna es una carga alta de toxinas, y de adyuvantes que rompen membranas, y eso altera el Membrane Shedding. El chupetín inicia el chain-carbing. Inicia el círculo vicioso.
+         -Yo dejé los paty con MSG (y sufrí bajón mental de energía por abstinencia) y luego de una semana de estar en ese bajón, y por un disgusto (problema de cloro en agua) empecé el CHAIN-CARBING con consumo de alfajores en cadena todos los días, ya va un mes y 3 semanas. Es complicado salir de eso. Ahí tenía el dumping pendiente del MSG alto + iniciar el ChainCarbing.
+           -Megadosis de vitaminas a embarazadas y a madres que recién dieron a luz, más "antojos" en dieta y malos consejos dietarios de altos consumo de carbos.
+           -Y vacunas a embarazadas y a recientes madres.
+========>   las vacunas y megasuplementos y otras cargas altas de toxinas, sumado a un par de días de altos carbohidratos, configuran un ingreso a la Adicción.
+               Con vacunas están reclutando adictos a toxinas.
+               Es un estilo de vida en que es muy muy difícil volver a Keto, LowCarb, Carnivore, Low VitA, LowToxin, IntermittentFasting, FastingMultiDía, o cualquier dieta en la que haya ketosis y low toxin y más dumpeo que acumulación.
+             Yo si no fuera por mis intolerancias alimenticias y migrañas, nunca hubiera salido. Ya salí del cigarrillo, del café, de la cafeína en tés y gaseosas. De todos los té y todas las gaseosas. Del MSG en patys. De todas las galletitas. Me falta salir de algunos carbos malos, de alfajores (que además tienen galletita adentro, JMAF, y retinol).
+            Una vez que tenés el ToxinLoad+CarbosIniciales, empieza el ChainCarbing, y eso lleva a todas las adicciones. 
+            Y llegado un punto, esto sin ketosis no se limpia.
+             El ChainCarbing postpone el dumping. Satura el OxPhos. Etc. etc. AcetylCoA que ya no se sabe dónde meter. Aunque un poquito está bien porque estimula, irrita, a la renovación de membranas, a que siga fluyendo. Pero tienen que ser carbos sin JMAF, sin retinol (sin leche en polvo, ni otros lácteos, ni soja ni aceites vegetales, ni productos del maiz). Manzana, arroz, banana, papas hervidas.
+_______________
+            -Este esquema de ESTAFA de parte de BigFood y BigPharma lo vamos a encontrar varias veces:  
+              HighToxinLoad + CarbosIniciales.
+            -Una vez que entraste, el esfuerzo para salir no solo es sobrehumano, si no que la desinformación es tal que nadie sabe en qué consiste. No hay chance.
+            -Para salir hay que hacer: 
+                  -Reducción progresiva LENTA de las toxinas diarias y de inhibidores de detox. Tan lenta que nadie es capaz de hacerlo. Reducir un remedio a lo largo de 5 meses en tamaños de pastillas ridículos, atraviesa múltiples taboos: el de sobreponerse a la autoridad médica, el de la impaciencia de querer sacarse una toxina rapidamente pero hay que seguir tomándola hasta completar la reducción, el de que da verguenza alterar un remedio en su presentación a tamaños ridículos, el de hacer algo por uno mismo un DIY de cortar pastillas y medirlas como manualidad (mucha gente no es capaz de reparar o alterar algo por uno mismo), el de entender que no importa tanto que sean de tamaños perfectos, si no el promedio, la carga reduciéndose progresivamente en promedio, o sea, ese es el taboo de no poder hacer un corte de pastilla a menos que sea perfecto, y el de la ridiculez de tomar pastillita de 1/16vo de tamaño entendiendo que eso sí tiene un efecto y aun sería grave ir a cero.
+               -AYUNOS extendidos o al menos intermitentes. La gente piensa que hacer ayuno, no comer, es malo. Toda la vida le dijeron lo contrario. La realidad es que hay humanos obesos que lograron récords de no comer de más de 300 días. Con buena hidratación y tal vez sal o electrolitos.
+              -Dietas bajas en toxinas: la gente piensa que las toxinas son necesarias. Por alguna razón, las renombraron todas. Ahora son "antioxidantes" u otros nombres. Y resulta que nos dan "beneficios". 
+Lamentablemente una copa de vino por día no da beneficios.
+El café no da beneficios. Tampoco la cafeína.
+Tampoco los polifenoles.
+Si hay beneficio es en irritar hacia un detox o de frenar un detox, cosas que se pueden aprovechar y que NECESITAMOS aprovechar, pero con conciencia de que no es por nutrición, si no para lograr un efecto.
+               -KETOSIS: sin ketosis no se disuelven los coágulos ni las bolitas tapando glándulas (todo tipo de glándulas como sebáceas de la piel o como lacrimales del ojo, o como el páncreas).
+Hay médicos diciendo que la ketosis es peligrosa y nunca debería hacerse, o que solo debe hacerse por motivos de reducción de peso y luego basta. Y ni aun así. La gente tiene temor en tomar decisiones sola. Y eso incluso aunque el médico les ordene hacer cosas autodestructivas. Hay algo raro ahí. No sé si es indoctrinación mediante visitas a pediatras (la puerta de entrada a la religión médica), o si es instinto a confiar en el Shamán de la tribu, hoy día rol complido por el médico (técnico/dealer de fármacos e intervenciones agudas). 
+                 Por suerte al hacer ayunos ya se obtienen horas de ketosis.
+                La realidad es que el ser humano pasó vidas normales enteras y largas sin comer un solo carbo, en ketosis permanente, a lo largo de miles de años y millones de años los ancestros de nuestra especie. La situación actual con los carbos es la que es anormal.
+
+[Quizás la razón evolutiva en tercerizar la administración de hierbas medicinales es que como todas son toxinas y como el efecto solo es agudo y luego deben retirarse, ese conocimiento mejor quede en la experiencia del Shamán, de un tercero, y que uno no juegue con cosas que no puede aprender uno mismo por experiencia, porque no se puede aprender a no morir de una hierba, por experiencia, 2 veces. Eso lo aprende el shaman por observación de gente que le fue mal haciendo X con Y hierba, y por relay de experiencias de sus maestros shamanes antecesores. Ahí también la evolución nos enseñó a creer en información médica sin checkearla. El relay del maestro shamán debe ser creido sin cuestionar.
+Pero hoy día estos instintos están siendo abusados para estafa y para perjudicarnos. Los instintos de tercerizar las decisiones de salud y de confiar sin checkear en info médica, a diferencia de otras infos.
+Los humanos que confiaban sin checkear, vivieron más y favorecieron su desendencia.
+Hoy día están abusando de ese instinto.
+Cuál es el antídoto a eso? Como se disuelve? Aumentando la confianza en uno mismo? Qué falta? Qué sobra?
+Si yo te doy información insólita, de carga emocional neutral, seguramente la checkeás. Si te doy información médica o política (política también: mismo instinto de no overridear a los líderes), no la checkeás. Hay un fuerte campo de fuerza metafórico impidiendo que checkees esa info. Es instinto. Decenas de siglos atrás, la supervivencia fue para los que no checkeaban y acataron al shamán. Estamos acá gracias a no desafiar cuando desafiar era la muerte. Alguna vez no desafiar fue crucial.]
+__
+[Qué es lo opuesto a que la gente tenga confianza en su propia experiencia, y en reparar sus propias cosas?
+Es lo siguiente, que es lo que se está implementando hoy día: 
+1) no permitir que la gente repare sus propias cosas, aparatos y hogar y casa. Por impedir acceso a repuestos, pedir certificaciones, hacer que el Code no lo pueda cumplir cualquiera, etc. Así la gente no adquiere experiencia en el DIY y depende de la autoridad y la autoridad médica. Nunca pueden desarrollar autoconfianza en su propia experiencia. Alguien  que nunca reparó ningún mecanismo ni aparato ni artefacto, ni construyó nada que sea pasible de fallar y hacerlo sin fallar, esa gente no tiene peldaños intermedios en la escalara para llegar a reparar el cuerpo humano. Les quitaron peldaños.
+No tienen experiencia en asignar valor de verdad a ideas. No tienen experiencia en contrastar afirmaciones. No hay chance.
+2) Llenar a la gente de información contradictoria. No solo de medicina, pero en especial de medicina. Entonces se van "al que sabe". Sembrar Fear Uncertainty and Doubt (F.U.D.). Sobre todo con información contradictoria a propósito. De manera que la gente no sabe cómo aprender a saber.
+3) Penalizar a los que no acatan. "Automedicarse" está mal visto. Cuando un médico usa la palabra "cura" en su material promocional, le hacen juicio por "curandería" que es gravísimo y pierde la licencia y pierde todo. "Tratamiento" sí, cura no. La licencia es una manera de condicionar la profesión médica. Coaccionan con la amenaza de retirar licencia. 
+Es una correa, están atados. Esto no es un eufemismo, ni una metáfora, es una triste realidad, pura y dura. Están atados con correa /leash.
+4) La enseñanza es cada vez menos práctica, cada vez sirve menos para meter mano en el mundo real. Mucho recitar de memoria y poco soldar cables, pegar ladrillos, mezclar tubos ensayo, etc.
+No puede haber Pensamiento Crítico si no hay roce con la experiencia, si nunca hay oportunidad de contrastar las mentiras que enseñaron.
+Una enseñanza sin talleres prácticos ni consecuencias prácticas, es una Enseñanza Desprovista de Pensamiento Crítico.
+Forma gente confundida. 
+Y gente sin herramientas cognitivas para des-confundirse y distinguir lo real de la mentira o equivocación.
+__
+Esas son 4 de las estrategias con las que estamos siendo sometidos en este momento.
+Son las que usa este sistema para mantener su homeostasis.
+Si mucha gente desacata, se desequilibra.
+No sé cómo se soluciona y no sé si tiene solución.
+Algunas ideas:
+===========
+1) permitir a la gente reparar sus cosas y acceso a repuestos, y permitir fábricas de repuestos marcas alternativas. Fomentar el DIY.
+2) no sé si hay antídoto contra la información contradictoria. Pero descorporativizar la TV ayudaría. Basta de "información paga".  Tiene que haber programas y canales de cualquier cosa no pre-pactada en producción, no pre-paga. TODA LA TV apesta a homogeneidad pre pactada en reunión de productores de las 6AM, se huele de lejos.
+3) permitir a la gente autotratarse y rehusar tratamientos. Eliminar licencias para practicar medicina. Que cualquiera pueda practicar. 
+No perdemos nada.
+Matan más gente de la que curan, en la situación actual.
+4) más enseñanza práctica, más escuelas técnicas.
+]
+__
+Cada vez que yo aprendía algo práctico de chico me sentía empoderado.
+Era esa sensación de aprender un truco viendo ManosMágicas en la TV temprano un sábado.
+Te empoderaba entender el secreto de las cosas.
+Qué triste la gente que nunca pasó por eso. Qué confundida debe estar esa gente. Sin rumbo y sin las herramientas para descifrar cómo navegar esta realidad moderna.
+No es casualidad el personaje que Tarantino construyó para Brad Pitt en OneUponATimeInHollywood. Lo mostraba reparando antenas, enfrentando al bocón / big mouth de Bruce Lee, alimentando al perro con alimento húmedo de lata, etc. No era un tipo dependiente, y checkear el big mouth de Bruce Lee es una metáfora pura y destilada del poder de la autoconfianza, de la no-dependencia, y de no tener miedo a checkear lo que los demás consideran incheckeable. Si todos me dicen que ese petiso big mouth es el más poderoso del planeta y que sus puños son un arma y blabla, nadie quiere checkear a Bruce Lee. Bueno, hay que hacer exactamente eso. Si me dicen que hay un virus mortal en el aire, nadie lo quiere checkear ni salir de la casa. Bueno, habrá que usar la cabeza y encontrar una manera de checkear. Si salí un segundo y no me pasó nada? Si el vecino se la pasa afuera y no pasa nada? Cosas así. Lo importante es no apagar el cerebro.
+__
+Nos dicen cosas que no podemos des-oir.
+Nos envenenan el oído.
+Son palabras peligrosas. El problema no se soluciona censurando las palabras "hay un virus mortal en el aire". El problema no son las palabras, si no la gran repetición constante y al unísono. La descreditación de los que se atreven a contrastar, a checkear. Todo el aparato implantado que hay para esto.
+Y el cambio, siendo que no podemos cambiar ese aparato centralizado que asegura la homeostasis del sistema de explotación y estafa, si podemos cambiar nosotros como individuos. 
+Y así restar poder a las palabras del tipo que no podemos des-oir, haciéndolo desde el receptor en vez de desde el emisor de la comunicación.
+__
+Conclusión: alguien que se está autodañando por seguir consejo de la autoridad médica, en vez de intentar hacelo cambiar hacia otra autoridad terapéutica, hay que empoderarlo.
+    En vez de descalificar su capacidad de discernimiento (al insultar sus decisiones de salud), hay que empoderarlo, tal vez con actividades prácticas. 
+   Subir el volumen del knob de la.
+autoconfianza. 
+   La persona tiene que experimentar ACIERTOS propios.
+   Y luego, un tiempo luego, lentamente empezar a introducir y mostrar los libros y conceptos que hay que mostrar.
+
+
+
+
+
